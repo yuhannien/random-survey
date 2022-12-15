@@ -8,6 +8,10 @@
 
 
 const urls = [
-	'http://140.128.121.30:34000/index.php/285291?lang=zh-Hant-TW',
-	'http://140.128.121.30:34000/index.php/787926'
+	'http://140.128.121.30:34000/index.php/195851?lang=zh-Hant-TW',
+	'http://140.128.121.30:34000/index.php/658647?lang=zh-Hant-TW',
+	'http://140.128.121.30:34000/index.php/894452?lang=zh-Hant-TW',
+	'http://140.128.121.30:34000/index.php/739352?lang=zh-Hant-TW',
+	'http://140.128.121.30:34000/index.php/234257?lang=zh-Hant-TW',
+	'http://140.128.121.30:34000/index.php/765268?lang=zh-Hant-TW'
 ];
